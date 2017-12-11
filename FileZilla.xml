@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.26.2" platform="windows">
+	<Servers>
+		<Server>
+			<Host>doyleandpartners.ie</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>philip@doyleandpartners.ie</User>
+			<Pass encoding="base64">KGFrdnIhWiZFKHIk</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>doyle</Name>
+			<Comments>User :- philip@doyleandpartners.iePassword :-(akvr!Z&amp;E(r$Sent on:5:56 pmFrom:Pratik BhattHost doyleandpartners.ie</Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.wethriveplatform.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>webindia@wethriveplatform.com</User>
+			<Pass encoding="base64">aW5kaWEkMTIz</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>social learner</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.webdemor.info</Host>
+			<Port>21</Port>
+			<Protocol>4</Protocol>
+			<Type>0</Type>
+			<User>webindiainc@webdemor.info</User>
+			<Pass encoding="base64">aW5kaWEkMTIz</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>webdemo</Name>
+			<Comments>host :  ftp.webdemor.info
+u :  webdemo@webdemor.info
+P : india$123</Comments>
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+</FileZilla3>

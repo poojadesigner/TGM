@@ -1,0 +1,44 @@
+<div class="menu-main-menu-container">
+<ul id="menu-main-menu" class="nav navbar-nav navbar-right">
+<li id="menu-3945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown"><a title="Supported industries" href="#" class="dropdown-toggle" aria-haspopup="true">Login</a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-2673" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Outbound" href="https://www.tgmarketingusa.com/login/">Outbound Calendar</a></li>
+	<li id="menu-3952" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Inbound" href="https://portal.client360services.com/tgmarketing/Index.asp">Inbound Portal</a></li>
+</ul>
+</li>
+</div>
+
+
+
+.accordion-toggle {
+    color: #fff;
+    font-size: 15px;
+    float: right;
+    background: #333;
+    padding: 4px 25px;
+    font-family: rubik !important;
+}
+
+.accordion-inner {
+    color: #666;
+    font-size: 12px;
+    margin-top: 10px;
+    float: right;
+    position: absolute;
+    background: #fff;
+    bottom: 0;
+    top: 18px;
+    z-index: 9999;
+    box-shadow: 1px 1px 1px 1px #ccc;
+    height: 50px;
+    padding: 10px;
+}
+
+.accordion-inner a
+{
+    text-transform: uppercase;
+    line-height: 43px!important;
+    padding: 15px !important;
+    font-size: 13px !important;
+    color: #666 !important;
+}
